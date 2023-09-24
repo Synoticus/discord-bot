@@ -12,7 +12,7 @@ Requirement:
 
 This bot was created by me using the documentation from https://discord.js.org/ I hope you like it!
 
-My website: https://synoticus.ro
+My website: https://synoticus.dev
 
 Contact:
 

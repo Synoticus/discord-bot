@@ -16,7 +16,7 @@ My website: https://synoticus.dev
 
 Contact:
 
-Discord: Synoticus#6677
+Discord: synoticus
 
 E-Mail: synoticus@yahoo.com
 
